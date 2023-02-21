@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yadavaayush0202@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/167vEx7p1to-ug1lprc-k-CV4NJlTjtzH/view?usp=sharing](https://drive.google.com/file/d/167vEx7p1to-ug1lprc-k-CV4NJlTjtzH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1t3FYL6vJ3qAY4FRq2-uU1syQq34Ycl3x/view?usp=sharing)
 
 - ⚡ Fun fact **I am good at mimicking people!**
 
