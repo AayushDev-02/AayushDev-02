@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NEXT JS**
 
-- ☁️ Certified Cloud Practitioner.
+- ☁️ Certified Cloud Practitioner - [Certificate](https://drive.google.com/file/d/1SUALWvs-FaXaOqk6RrQkqinBRuv6Gmmp/view?usp=sharing).
 
 - 💬 Ask me about **HTML, CSS, JS, TAILWIND, BOOTSTRAP, REACT, DSA.**
 
