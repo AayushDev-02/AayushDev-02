@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4467980/screenshots/10066515/media/a85f92e2e28b742b3e1c168b2090deb1.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushdev-02&label=Profile%20views&color=0e75b6&style=flat" alt="aayushdev-02" /> </p>
 
-- 🌱 I’m currently learning **NEXT JS, Solidity**
+- 🌱 I’m currently learning **NEXT JS**
 
 - ☁️ Certified Cloud Practitioner.
 
