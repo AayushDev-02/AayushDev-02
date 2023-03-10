@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **NEXT JS, Solidity**
 
+- ☁️ Certified Cloud Practitioner.
+
 - 💬 Ask me about **HTML, CSS, JS, TAILWIND, BOOTSTRAP, REACT, DSA.**
 
 - 📫 How to reach me **yadavaayush0202@gmail.com**
